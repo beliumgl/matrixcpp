@@ -1,5 +1,8 @@
 # MatrixCPP
 
+![Stars](https://img.shields.io/github/stars/beliumgl/sudokusolver?style=social)
+![Forks](https://img.shields.io/github/forks/beliumgl/sudokusolver?style=social)
+
 MatrixCPP is a simple C++11 project for performing basic matrix operations such as addition, subtraction, and multiplication.
 
 # Requirements
