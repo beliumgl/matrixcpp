@@ -5,6 +5,7 @@ MatrixCPP is a simple C++11 project for performing basic matrix operations such 
 # Requirements
 
 - C++11 or later
+- Git (optional, for cloning the repository)
 
 ## Installation
 
