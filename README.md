@@ -32,8 +32,8 @@ MatrixCPP is a simple C++11 project for performing basic matrix operations such 
 
 int main() {
     try {
-        Matrix m1({{1, 2}, {3, 4}});
-        Matrix m2({{5, 6}, {7, 8}});
+        Matrix<int> m1({{1, 2}, {3, 4}});
+        Matrix<int> m2({{5, 6}, {7, 8}});
         
         Matrix result = m1 + m2;
 
