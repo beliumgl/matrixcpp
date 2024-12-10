@@ -35,7 +35,7 @@ int main() {
         Matrix<int> m1({{1, 2}, {3, 4}});
         Matrix<int> m2({{5, 6}, {7, 8}});
         
-        Matrix result = m1 + m2;
+        Matrix<int> result = m1 + m2;
 
         for (const auto& row : result.content) {
             for (int value : row) {
