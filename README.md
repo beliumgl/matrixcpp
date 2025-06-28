@@ -14,7 +14,7 @@ MatrixCPP is a simple C++11 project for performing basic matrix operations such 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/matrixcpp.git
+   git clone https://github.com/beliumgl/matrixcpp.git
    cd matrixcpp
 2. **Create a build directory**:
    ```bash
